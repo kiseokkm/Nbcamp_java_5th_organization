@@ -1,7 +1,10 @@
-# 내일배움캠프 5기 Spring 백엔드 과정
+# 내일배움캠프 Java 5기 Spring 백엔드 과정
 
 ### 교육 기간
 - 2024년 4월 ~ 8월 (5개월)
+
+### 활동기록 TIL
+- https://kiseokkm.tistory.com/category/TIL
 
 ## Level 1 프로그래밍 기본개념
 
